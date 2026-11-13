@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+/bin/
+/out/
+/build/
+/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Generated archives
+*.zip
+
+# OS files
+.DS_Store
